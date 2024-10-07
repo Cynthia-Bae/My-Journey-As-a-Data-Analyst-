@@ -20,4 +20,14 @@ Raw dataset: gotten kaggle  on shark attack .
 - Correcting errors in datasets.
 - Formatting columns appropriately.
 - Picking data point needed for the analysis.
-- Rearrangement of columns  
+- Rearrangement of columns.
+
+## DATASET TATISTICS 
+Number of variables	22
+Number of observations	25614
+Missing cells	440769
+Missing cells (%)	78.2%
+Duplicate rows	0
+Duplicate rows (%)	0.0%
+
+
