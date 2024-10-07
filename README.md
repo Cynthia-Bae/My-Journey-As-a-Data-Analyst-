@@ -22,7 +22,7 @@ Raw dataset: gotten kaggle  on shark attack .
 - Picking data point needed for the analysis.
 - Rearrangement of columns.
 
-## DATASET TATISTICS 
+## DATASET STATISTICS 
 Number of variables	22
 Number of observations	25614
 Missing cells	440769
