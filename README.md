@@ -3,7 +3,7 @@
 ## DATA  PREPARATION AND CLEANING 
 
 ## PROJECT OVERVIEW 
-Data cleaning using excel is a very important step in data analysis, it includes importing or loading or dataset from different source into excel, Organizing them in worksheet and tables. The cleaning and consolidating the various worksheet and tables.
+Data cleaning using excel is a very important step in data analysis, it includes importing or loading of dataset from different source into excel, Organizing them in worksheet and tables. The cleaning and consolidating the various worksheet and tables.
 
 Preparing a raw dataset on sharks attacks for an analysis  team to study trend  in attack locations  and frequency 
 
